@@ -4,7 +4,7 @@
   "description": "A simple voting system",
   "dependencies": {
     "cookie-parser": "^1.4.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.0",
     "jimp": "^0.8.5",
     "md5": "^2.2.1",
